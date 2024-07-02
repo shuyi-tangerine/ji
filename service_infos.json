@@ -1,0 +1,41 @@
+[{
+  "name": "tangerine/csdn",
+  "protocol": "compact",
+  "is_buffered": true,
+  "is_framed": true,
+  "ip": "",
+  "port": 23460,
+  "use_secure": false,
+  "web_ip": "",
+  "web_port": 23461
+}, {
+  "name": "tangerine/money",
+  "protocol": "json",
+  "is_buffered": true,
+  "is_framed": false,
+  "ip": "",
+  "port": 21080,
+  "use_secure": false,
+  "web_ip": "",
+  "web_port": 31081
+}, {
+  "name": "tangerine/little_book_booker",
+  "protocol": "binary",
+  "is_buffered": false,
+  "is_framed": true,
+  "ip": "",
+  "port": 23458,
+  "use_secure": false,
+  "web_ip": "",
+  "web_port": 23459
+}, {
+  "name": "tangerine/comment",
+  "protocol": "simplejson",
+  "is_buffered": false,
+  "is_framed": true,
+  "ip": "",
+  "port": 23462,
+  "use_secure": false,
+  "web_ip": "",
+  "web_port": 23463
+}]
